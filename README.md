@@ -1,1 +1,1 @@
-# A02VallapuReddy
+I have created a web page in AO1.It includes 3pages .Home page ,Buy books and contact .In the buy page the customer can get to know the total cost of the books.In the contact page people can contact giving details like name, email etc.I add few of my skills to the home page.
