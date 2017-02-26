@@ -1,0 +1,34 @@
+
+    #hello
+         	{
+           color: orange;
+           text-align: center;
+         }
+          .ins
+		           {
+			    color:orange
+			  }
+               p
+			         {
+		          text-align: center;
+	             }
+	                 [class$="typeone"]
+	                                    {
+		                background:green;
+	                   }
+	      .ins1
+		             {
+			    color: blue;
+			   }
+	#hello1
+	         {  
+			 font-weight:bold;
+		 }
+	#hello2
+	         {
+	         font-weight:bold;
+	     }
+	#hello3
+	         {
+		     font-weight:bold;
+	     }
