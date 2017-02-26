@@ -1,0 +1,70 @@
+html
+body {
+    background-image: url("img/bg2.jpg");
+    background-repeat: no-repeat;
+} {
+    color: #222;
+    font-size: 1em;
+    line-height: 1.4;
+}
+	a{size:4em;}
+	#heading1{color:brown;}
+.button1{
+    background-color:springgreen; 
+    border: none;
+    color:cornflowerblue;
+    padding: 12px 28px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    margin: 2px 2px;
+    cursor: pointer;
+}
+
+.button2{
+    background-color: springgreen;
+    border: none;
+    color: cornflowerblue;
+    padding: 12px 28px;
+    text-align: left;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    margin: 2px 2px;
+    cursor: pointer;
+    cursor: pointer;
+}	
+.button3{
+    background-color: springgreen;
+    border: none;
+    color:cornflowerblue;
+    padding: 12px 28px;
+    text-align: left;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    margin: 2px 2px;
+    cursor: pointer;
+    cursor: pointer;
+}	
+   
+
+.button1 {
+    background-color: springgreen; 
+    color: black; 
+    border: 2px solid #4BAF50;
+}
+.button1:hover{background-color:#6FFFD4}
+.button2 {
+    background-color: springgreen; 
+    color: black; 
+    border: 2px solid #4CAE50;
+}
+.button2:hover{background-color:springgreen}
+.button3 {
+    background-color: springgreen; 
+    color: black; 
+    border: 2px solid #4BAF50;
+}
+
