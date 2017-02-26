@@ -1,0 +1,1 @@
+I have created a web page .It includes 3pages .Home page ,By books and contact .In the contact page people can contact giving details like name, email etc. In By Books page they can buy books.
